@@ -3,6 +3,8 @@
   Maneira de instruir o computador.
   Como um lego, utilizamos peças para criar algoritmos e resolver problemas
 
+    **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema
+
 ## Peças de uma linguagem
 
   - Comentários
@@ -32,8 +34,9 @@
 
 ## Operadores
 
-  Operadores de atribuição de valor
-  Operador de concatenação
+  Operadores de atribuição de valor: =
+  Operador de concatenação: +
+  Operadores de comparação: == (igual)/ != (não igual) / < > (menor-que e maior-que) / <= e >= (menor-ou-igual e maior-ou-igual)
 
 ## Estruturas de dados
 
@@ -58,6 +61,7 @@
 # Condicionais
 
   Switch
+  if/else (controle de fluxo)
 
 # Módulos em Node.js
 
