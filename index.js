@@ -116,7 +116,7 @@ const deletarMetas = async() => {
     mensagem = "Não existem metas."
     return
   }
-  
+
   const metasDesmarcadas = metas.map((meta) => {
     return {value: meta.value, checked: false}
   })
@@ -133,7 +133,7 @@ const deletarMetas = async() => {
   }
 
   itemsADeletar.forEach((item)=>{
-    metas.filter((meta)=>{
+    metas = metas.filter((meta)=>{
       return meta.value != item
     })
   })
