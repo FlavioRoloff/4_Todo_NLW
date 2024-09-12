@@ -71,6 +71,12 @@
   Importação de módulos (require, CommonJS)
   Biblioteca 'inquirer' para criar prompts interativos
 
+# JSON
+
+  JavaScript Object Notation
+  JSON.parse() -> transforma de JSON para JS
+  JSON.stringfy() -> transforma de JS para JSON
+
 # Programação assíncrona e Promises
 
   Uso de funções assíncronas (async/await)
